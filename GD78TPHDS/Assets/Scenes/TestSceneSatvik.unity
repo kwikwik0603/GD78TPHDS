@@ -1021,7 +1021,7 @@ MonoBehaviour:
     m_Bits: 1024
   jumpForce: 12
   jumpCooldown: 0.25
-  airMultiplier: 0.4
+  airMultiplier: 0.7
   jumpKey: 32
   sprintKey: 304
   state: 0
